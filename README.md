@@ -1,11 +1,5 @@
-# bank-churn-analysis.
-A machine learning project for analyzing and predicting bank customer churn.
 
-If you want to apply the **Apache License 2.0** to your project, you can modify your **README** to reflect that. Here's an updated version of the **README** with the **Apache License 2.0** mentioned:
-
----
-
-# Bank Customer Churn Prediction 📊💳
+# Bank Customer Churn Prediction 
 
 ## Overview 🚀
 This project focuses on predicting **customer churn** (the likelihood of a customer leaving a bank) using machine learning techniques. The aim is to analyze customer behavior and provide insights for banks to improve customer retention strategies, reduce churn rates, and enhance overall customer satisfaction.
@@ -50,29 +44,14 @@ By predicting customer churn, banks can implement targeted retention strategies,
 
 ### Data Source 📁
 The dataset used in this project contains customer information, including:
-- Demographics (age, gender, etc.)
-- Financial details (balance, credit score, salary, etc.)
+- Demographics (age, gender.)
+- Financial details (balance, credit score, salary.)
 - Product usage and customer status.
 
-### Installation ⚙️
-To run this project locally, follow these steps:
-1. Clone this repository:
-   ```bash
-   git clone <repository-link>
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebook or Python script to train the models and generate insights.
 
 ### Links 📑
-- **Google Colab Notebook**: [Link to Colab Notebook]
-- **Looker Studio Dashboard**: [Link to Dashboard]
+- **Google Colab Notebook**:https://colab.research.google.com/drive/1_PgW6R1rXXEVjvpXvewaNjJD-HuANPKP?usp=sharing#scrollTo=MaUa4MVtl5iz
+- **Looker Studio Dashboard**: https://lookerstudio.google.com/reporting/b1ecb6ee-b85c-4150-b29f-ffab78012260
 
 ### License 📜
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
-
----
-
-This version of the README clearly mentions that your project is under the **Apache License 2.0**. Make sure to include the **LICENSE** file in your repository for full details.
