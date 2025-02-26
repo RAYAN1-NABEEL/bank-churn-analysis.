@@ -50,8 +50,7 @@ The dataset used in this project contains customer information, including:
 
 
 ### Links 📑
-- **Google Colab Notebook**:https://colab.research.google.com/drive/1_PgW6R1rXXEVjvpXvewaNjJD-HuANPKP?usp=sharing#scrollTo=MaUa4MVtl5iz
-- **Looker Studio Dashboard**: https://lookerstudio.google.com/reporting/b1ecb6ee-b85c-4150-b29f-ffab78012260
-
+- **Google Colab Notebook**:https://colab.research.google.com/drive/12w2QrXnilg1AlMwi4TTYhlKGmr7Bb_0d?usp=sharing
+- **Looker Studio Dashboard**:https://lookerstudio.google.com/reporting/b1ecb6ee-b85c-4150-b29f-ffab78012260
 ### License 📜
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
